@@ -16,6 +16,9 @@ padding: 16px;
 }
 
 img {
-width: 80px;
-height: 80px;
+display: block;    
+width: 250px;
+margin: 0 auto;
+border: 4px solid #000000
+height: 300px;
 }
